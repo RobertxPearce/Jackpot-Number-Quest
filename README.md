@@ -1,5 +1,5 @@
 # Jackpot-Number-Quest
-In this game, you are pitted against the computer's cunning ability to generate a random number. Your mission, should you choose to accept it, is to decipher this mysterious number.
+In this game, you are pitted against the computer's ability to generate a random number. Your goal is to guess the number.
 # Built With
 * C++
 # Closer Look
